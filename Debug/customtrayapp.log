@@ -1,0 +1,3 @@
+﻿  rcc customtrayapp.qrc
+  qrc_customtrayapp.cpp
+  customtrayapp.vcxproj -> D:\workSpace\test\qt\customtrayapp\Debug\customtrayapp.exe

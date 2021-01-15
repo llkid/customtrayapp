@@ -1,0 +1,12 @@
+﻿  Reading Qt configuration (C:/Qt/Qt5.14.2/5.14.2/msvc2017/bin/qmake)
+  uic customtrayapp.ui
+  rcc customtrayapp.qrc
+  moc customtrayapp.h
+   RCC: Warning: No resources in 'D:\workSpace\test\qt\customtrayapp\customtrayapp.qrc'.
+  customtrayapp.cpp
+  main.cpp
+  qrc_customtrayapp.cpp
+  moc_customtrayapp.cpp
+main.obj : error LNK2005: "struct <unnamed-type-NOTIFYICONDATA> NOTIFYICONDATA" (?NOTIFYICONDATA@@3U<unnamed-type-NOTIFYICONDATA>@@A) 已经在 customtrayapp.obj 中定义
+moc_customtrayapp.obj : error LNK2005: "struct <unnamed-type-NOTIFYICONDATA> NOTIFYICONDATA" (?NOTIFYICONDATA@@3U<unnamed-type-NOTIFYICONDATA>@@A) 已经在 customtrayapp.obj 中定义
+D:\workSpace\gitCode\NTI_M220_Tools\eMeetLink\Release\customtrayapp.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

@@ -1,0 +1,2 @@
+D:\workSpace\test\qt\customtrayapp\Debug\customtrayapp.exe
+D:\workSpace\test\qt\customtrayapp\Debug\customtrayapp.pdb

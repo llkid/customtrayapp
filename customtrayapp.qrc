@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/customtrayapp">
+        <file>images/detail_luna_off.png</file>
+        <file>images/menu.qss</file>
+    </qresource>
+</RCC>
